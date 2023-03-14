@@ -22,5 +22,5 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <li><a href="https://marcelmenezesr.github.io/javascript/aula12ex/ex015/ex015.html">Executar o exercício 015</a></li>
 <li><a href="https://marcelmenezesr.github.io/javascript/aula14ex/ex016/ex016.html">Executar o exercício 016</a></li>
 <li><a href="https://marcelmenezesr.github.io/javascript/aula14ex/ex017/ex017.html">Executar o exercício 017</a></li>
-<a href="https://marcelmenezesr.github.io/javascript/aula16ex/ex018/ex018.html">Executar o exercício 017</a></li>
+<a href="https://marcelmenezesr.github.io/javascript/aula16ex/ex018/ex018.html">Executar o exercício 018</a></li>
 </ul>
